@@ -1,0 +1,10 @@
+# Awesome Claude Code Marketplaces
+
+Claude Code Marketplaces
+ • Every Marketplace: Curated workflows and agents from Every.to engineers
+https://github.com/EveryInc/every-marketplace (https://github.com/EveryInc/every-marketplace)
+
+Plugins from this marketplace
+ • Compounding Engineering: AI-powered development tools that learn from each PR, test, and review
+Install:/plugin marketplace add https://github.com/EveryInc/every-marketplace
+/plugin install compounding-engineering
